@@ -20,15 +20,15 @@ By Group -16
 
 Contributions : 
 
-Chinmaya (202218054) 
+* Chinmaya (202218054) 
 Data Preprocessing, Model Training and testing(ML+ANN)
-Riya (202218049) 
+* Riya (202218049) 
 Apply ML pipeline(Preprocessing+ML models) on Single Author Dataset 
-Swayista (202218035)
+* Swayista (202218035)
 Data Visualization, Model prediction on Best selling rank as target
-Asish (202218022) 
+* Asish (202218022) 
 EDA, ML model on rating average, Regularization
-Kashish (202001425)
+* Kashish (202001425)
 Documentation,Problem Statement, Dataset Description, Feature Selection
 
 
